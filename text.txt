@@ -1,2 +1,3 @@
 creating a project. 
 testing this file for diff.
+checking for git add -u
