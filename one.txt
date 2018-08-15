@@ -3,3 +3,6 @@ lets check for the short status
 
 whats this staged?
 let me check once again
+
+
+let me check this with git commit -m 
