@@ -1,1 +1,5 @@
 checking for the error changes not staged for commit
+lets check for the short status
+
+whats this staged?
+let me check once again
