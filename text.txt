@@ -1,7 +1,7 @@
 Testing for rebase.. 
 Lets find out the difference between rebase and merge.
 File rebase. 
-Lets find out the difference between rebase and merge. 
+Lets check out the difference between rebase and merge. 
 checking for rebase. 
 
 
