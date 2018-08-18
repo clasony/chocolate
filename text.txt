@@ -1,1 +1,2 @@
-Testing for rebase..
+Testing for rebase.. 
+Lets find out the difference between rebase and merge. 
