@@ -1,8 +1,1 @@
-creating a project. 
-testing this file for diff.
-checking for git add -u
-jajluhfew fw
-checking for rebase
-lets check for rebase hard once;
-testing for reset.
-Lets test
+Testing for rebase..
